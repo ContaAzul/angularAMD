@@ -1,6 +1,6 @@
 {
-    "name": "angularAMD",
-    "version": "0.1.0",
+    "name": "@contaazul/angular-amd",
+    "version": "0.0.2",
     "description": "RequireJS plugin for AngularJS",
     "repository": {
         "type": "git",
@@ -15,6 +15,7 @@
     "bugs": {
         "url": "https://github.com/marcoslin/angularAMD/issues"
     },
+    "main": "src/angularAMD.js",
     "dependencies": {},
     "devDependencies": {
         "mustache": "~0.7.2",
